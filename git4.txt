@@ -3,3 +3,6 @@ I am learning git
 
 second file
 forth change
+
+
+modified in firstbranch
